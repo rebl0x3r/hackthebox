@@ -51,6 +51,8 @@
   $ cd hackthebox
 
   $ chmod +x main.py
+  
+  $ pip3 install -r requirements.txt
 
   $ ./main.py
   ```
@@ -76,7 +78,9 @@
    <img alt="5. Step" src="https://img.shields.io/badge/Step-5-blueviolet" /> Click open <code>Command Prompt</code> or <code>Windows Powershell</code> window here.
     
    Paste and run the following command:
+   <code> py -m pip -r requirements.txt </code>
    <code> py main.py </code>
+   
   
   
 
