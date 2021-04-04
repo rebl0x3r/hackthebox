@@ -69,6 +69,7 @@ def clear():
 
 
 clear()
+sys.stdout.write("\x1b[8;24;84t")
 print(banner)
 y = int(input("\033[34m[\033[32mCOUNT OF CODES\033[34m]:\033[37m "))
 
