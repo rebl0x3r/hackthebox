@@ -10,11 +10,11 @@
   <a href="https://t.me/viperzcrewchat/"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/chat.svg" alt="Support chat"></a>
 </p>
 
-<h1 align=center>HTB Code Generator</h1>
+<h1 align="center">HTB Code Generator</h1>
 
 <hr>
 
-<h2>Table Of Contents</h2>
+<h2 align="center">Table Of Contents</h2>
 
 * [General Information](#general-info)
 * [Preview](#preview)
@@ -26,7 +26,7 @@
 
 <hr>
 
-<h2>General Information</h2>
+<h2 align="center">General Information</h2>
   
   This tool will generate you hackthebox invites to start with your pentesting labs.
   You can either choose my tool, or try to hack your way by yourself.
@@ -34,12 +34,12 @@
   
 <hr>
 
-<h2>Preview</h2>
+<h2 align="center">Preview</h2>
 <p align="center">
   <img alt="Showcase" src="https://i.imgur.com/95RnTy6.png">
 </p>
 
-<h2>Installation</h2>
+<h2 align="center">Installation</h2>
 
   HackTheBox requires <a href="https://www.python.org/">Python </a> v3 to run.
   
@@ -80,7 +80,7 @@
   
   
 
-<h2>Disclaimer</h2>
+<h2 align="center">Disclaimer</h2>
 
   Use this tool for educational purposes only .🕵️‍♂️
   If you do any illegal attacks, i am not responsible for your tasks.
@@ -88,7 +88,7 @@
   
 <hr>
   
-<h2>Credits</h2>
+<h2 align="center">Credits</h2>
   
   Channels On Telegram With Nice Stuff
   
@@ -102,7 +102,7 @@
 
 <hr>
             
-<h2>Social Media</h2>
+<h2 align="center">Social Media</h2>
  <img align="left" alt="telegram.org" width="22px" src="https://images.vexels.com/media/users/3/137414/isolated/preview/3f7486417ddd88060a1818d44b6f3728-telegram-icon-logo-by-vexels.png" /> Telegram:<br />
  
 * [@mrblackx](https://t.me/mrblackx)
@@ -116,7 +116,7 @@
 
 <hr>
 
-<h2>Bug Report</h2>
+<h2 align="center">Bug Report</h2>
 
   If you found any bug or issue, please go [here](https://github.com/rebl0x3r/hackthebox/issues)
   
