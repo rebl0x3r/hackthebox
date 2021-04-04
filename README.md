@@ -126,4 +126,4 @@
 
 
 
-[Site Up](#hackthebox)
+[Site Up](#general-info)
