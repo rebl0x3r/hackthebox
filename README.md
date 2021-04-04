@@ -1,7 +1,7 @@
 <p align="center">
   🧞‍♂️ HackTheBox Invite Generator ⚡️<br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/domain2ip">
-  <img alt="Tool version" src="https://img.shields.io/badge/version-1.2-brightgreen">
+  <img alt="Tool version" src="https://img.shields.io/badge/version-0.1-brightgreen">
   <img alt="Errors" src="https://img.shields.io/badge/errors fixed-0-red">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/rebl0x3r/domain2ip">
   <img alt="Open Source" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
