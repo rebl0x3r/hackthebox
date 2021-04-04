@@ -77,8 +77,8 @@
    
    <img alt="5. Step" src="https://img.shields.io/badge/Step-5-blueviolet" /> Click open <code>Command Prompt</code> or <code>Windows Powershell</code> window here.
     
-   Paste and run the following command:
-   <code> py -m pip -r requirements.txt </code>
+   Paste and run the following commands:
+   <code> py -m pip -r requirements.txt </code><br>
    <code> py main.py </code>
    
   
