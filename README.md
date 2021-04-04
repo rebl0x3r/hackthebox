@@ -65,7 +65,7 @@
   * [Python (3.9.2 | 64bit)](https://www.python.org/ftp/python/3.9.2/python-3.9.2.exe)
   * [Python (3.9.2 | 32bit)](https://www.python.org/ftp/python/3.9.2/python-3.9.2-amd64.exe)
   
-  **How to open the installed Burp Suite Pro?**
+  **How to open the installed tool?**
 
   <img alt="1. Step" src="https://img.shields.io/badge/Step-1-blueviolet" /> Install Python
   
